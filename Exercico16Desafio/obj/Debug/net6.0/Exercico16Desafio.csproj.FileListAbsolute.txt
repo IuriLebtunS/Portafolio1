@@ -1,0 +1,15 @@
+/Users/iurilebtun/Documents/meuapp/PruebasDeNuevo/Exercico16Desafio/bin/Debug/net6.0/Exercico16Desafio
+/Users/iurilebtun/Documents/meuapp/PruebasDeNuevo/Exercico16Desafio/bin/Debug/net6.0/Exercico16Desafio.deps.json
+/Users/iurilebtun/Documents/meuapp/PruebasDeNuevo/Exercico16Desafio/bin/Debug/net6.0/Exercico16Desafio.runtimeconfig.json
+/Users/iurilebtun/Documents/meuapp/PruebasDeNuevo/Exercico16Desafio/bin/Debug/net6.0/Exercico16Desafio.dll
+/Users/iurilebtun/Documents/meuapp/PruebasDeNuevo/Exercico16Desafio/bin/Debug/net6.0/Exercico16Desafio.pdb
+/Users/iurilebtun/Documents/meuapp/PruebasDeNuevo/Exercico16Desafio/obj/Debug/net6.0/Exercico16Desafio.csproj.AssemblyReference.cache
+/Users/iurilebtun/Documents/meuapp/PruebasDeNuevo/Exercico16Desafio/obj/Debug/net6.0/Exercico16Desafio.GeneratedMSBuildEditorConfig.editorconfig
+/Users/iurilebtun/Documents/meuapp/PruebasDeNuevo/Exercico16Desafio/obj/Debug/net6.0/Exercico16Desafio.AssemblyInfoInputs.cache
+/Users/iurilebtun/Documents/meuapp/PruebasDeNuevo/Exercico16Desafio/obj/Debug/net6.0/Exercico16Desafio.AssemblyInfo.cs
+/Users/iurilebtun/Documents/meuapp/PruebasDeNuevo/Exercico16Desafio/obj/Debug/net6.0/Exercico16Desafio.csproj.CoreCompileInputs.cache
+/Users/iurilebtun/Documents/meuapp/PruebasDeNuevo/Exercico16Desafio/obj/Debug/net6.0/Exercico16Desafio.dll
+/Users/iurilebtun/Documents/meuapp/PruebasDeNuevo/Exercico16Desafio/obj/Debug/net6.0/refint/Exercico16Desafio.dll
+/Users/iurilebtun/Documents/meuapp/PruebasDeNuevo/Exercico16Desafio/obj/Debug/net6.0/Exercico16Desafio.pdb
+/Users/iurilebtun/Documents/meuapp/PruebasDeNuevo/Exercico16Desafio/obj/Debug/net6.0/Exercico16Desafio.genruntimeconfig.cache
+/Users/iurilebtun/Documents/meuapp/PruebasDeNuevo/Exercico16Desafio/obj/Debug/net6.0/ref/Exercico16Desafio.dll

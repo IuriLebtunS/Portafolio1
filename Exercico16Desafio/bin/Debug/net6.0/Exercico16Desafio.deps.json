@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Exercico16Desafio/1.0.0": {
+        "runtime": {
+          "Exercico16Desafio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercico16Desafio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

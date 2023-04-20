@@ -1,0 +1,15 @@
+/Users/iurilebtun/Documents/meuapp/PruebasDeNuevo/Exercico60/obj/Debug/net6.0/Exercico60.csproj.AssemblyReference.cache
+/Users/iurilebtun/Documents/meuapp/PruebasDeNuevo/Exercico60/obj/Debug/net6.0/Exercico60.GeneratedMSBuildEditorConfig.editorconfig
+/Users/iurilebtun/Documents/meuapp/PruebasDeNuevo/Exercico60/obj/Debug/net6.0/Exercico60.AssemblyInfoInputs.cache
+/Users/iurilebtun/Documents/meuapp/PruebasDeNuevo/Exercico60/obj/Debug/net6.0/Exercico60.AssemblyInfo.cs
+/Users/iurilebtun/Documents/meuapp/PruebasDeNuevo/Exercico60/obj/Debug/net6.0/Exercico60.csproj.CoreCompileInputs.cache
+/Users/iurilebtun/Documents/meuapp/PruebasDeNuevo/Exercico60/bin/Debug/net6.0/Exercico60
+/Users/iurilebtun/Documents/meuapp/PruebasDeNuevo/Exercico60/bin/Debug/net6.0/Exercico60.deps.json
+/Users/iurilebtun/Documents/meuapp/PruebasDeNuevo/Exercico60/bin/Debug/net6.0/Exercico60.runtimeconfig.json
+/Users/iurilebtun/Documents/meuapp/PruebasDeNuevo/Exercico60/bin/Debug/net6.0/Exercico60.dll
+/Users/iurilebtun/Documents/meuapp/PruebasDeNuevo/Exercico60/bin/Debug/net6.0/Exercico60.pdb
+/Users/iurilebtun/Documents/meuapp/PruebasDeNuevo/Exercico60/obj/Debug/net6.0/Exercico60.dll
+/Users/iurilebtun/Documents/meuapp/PruebasDeNuevo/Exercico60/obj/Debug/net6.0/refint/Exercico60.dll
+/Users/iurilebtun/Documents/meuapp/PruebasDeNuevo/Exercico60/obj/Debug/net6.0/Exercico60.pdb
+/Users/iurilebtun/Documents/meuapp/PruebasDeNuevo/Exercico60/obj/Debug/net6.0/Exercico60.genruntimeconfig.cache
+/Users/iurilebtun/Documents/meuapp/PruebasDeNuevo/Exercico60/obj/Debug/net6.0/ref/Exercico60.dll

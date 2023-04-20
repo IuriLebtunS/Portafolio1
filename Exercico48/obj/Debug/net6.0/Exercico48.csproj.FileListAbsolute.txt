@@ -1,0 +1,15 @@
+/Users/iurilebtun/Documents/meuapp/PruebasDeNuevo/Exercico48/bin/Debug/net6.0/Exercico48
+/Users/iurilebtun/Documents/meuapp/PruebasDeNuevo/Exercico48/bin/Debug/net6.0/Exercico48.deps.json
+/Users/iurilebtun/Documents/meuapp/PruebasDeNuevo/Exercico48/bin/Debug/net6.0/Exercico48.runtimeconfig.json
+/Users/iurilebtun/Documents/meuapp/PruebasDeNuevo/Exercico48/bin/Debug/net6.0/Exercico48.dll
+/Users/iurilebtun/Documents/meuapp/PruebasDeNuevo/Exercico48/bin/Debug/net6.0/Exercico48.pdb
+/Users/iurilebtun/Documents/meuapp/PruebasDeNuevo/Exercico48/obj/Debug/net6.0/Exercico48.csproj.AssemblyReference.cache
+/Users/iurilebtun/Documents/meuapp/PruebasDeNuevo/Exercico48/obj/Debug/net6.0/Exercico48.GeneratedMSBuildEditorConfig.editorconfig
+/Users/iurilebtun/Documents/meuapp/PruebasDeNuevo/Exercico48/obj/Debug/net6.0/Exercico48.AssemblyInfoInputs.cache
+/Users/iurilebtun/Documents/meuapp/PruebasDeNuevo/Exercico48/obj/Debug/net6.0/Exercico48.AssemblyInfo.cs
+/Users/iurilebtun/Documents/meuapp/PruebasDeNuevo/Exercico48/obj/Debug/net6.0/Exercico48.csproj.CoreCompileInputs.cache
+/Users/iurilebtun/Documents/meuapp/PruebasDeNuevo/Exercico48/obj/Debug/net6.0/Exercico48.dll
+/Users/iurilebtun/Documents/meuapp/PruebasDeNuevo/Exercico48/obj/Debug/net6.0/refint/Exercico48.dll
+/Users/iurilebtun/Documents/meuapp/PruebasDeNuevo/Exercico48/obj/Debug/net6.0/Exercico48.pdb
+/Users/iurilebtun/Documents/meuapp/PruebasDeNuevo/Exercico48/obj/Debug/net6.0/Exercico48.genruntimeconfig.cache
+/Users/iurilebtun/Documents/meuapp/PruebasDeNuevo/Exercico48/obj/Debug/net6.0/ref/Exercico48.dll

@@ -1,0 +1,15 @@
+/Users/iurilebtun/Documents/meuapp/Pruebas/Exercico33/bin/Debug/net6.0/Exercico33
+/Users/iurilebtun/Documents/meuapp/Pruebas/Exercico33/bin/Debug/net6.0/Exercico33.deps.json
+/Users/iurilebtun/Documents/meuapp/Pruebas/Exercico33/bin/Debug/net6.0/Exercico33.runtimeconfig.json
+/Users/iurilebtun/Documents/meuapp/Pruebas/Exercico33/bin/Debug/net6.0/Exercico33.dll
+/Users/iurilebtun/Documents/meuapp/Pruebas/Exercico33/bin/Debug/net6.0/Exercico33.pdb
+/Users/iurilebtun/Documents/meuapp/Pruebas/Exercico33/obj/Debug/net6.0/Exercico33.csproj.AssemblyReference.cache
+/Users/iurilebtun/Documents/meuapp/Pruebas/Exercico33/obj/Debug/net6.0/Exercico33.GeneratedMSBuildEditorConfig.editorconfig
+/Users/iurilebtun/Documents/meuapp/Pruebas/Exercico33/obj/Debug/net6.0/Exercico33.AssemblyInfoInputs.cache
+/Users/iurilebtun/Documents/meuapp/Pruebas/Exercico33/obj/Debug/net6.0/Exercico33.AssemblyInfo.cs
+/Users/iurilebtun/Documents/meuapp/Pruebas/Exercico33/obj/Debug/net6.0/Exercico33.csproj.CoreCompileInputs.cache
+/Users/iurilebtun/Documents/meuapp/Pruebas/Exercico33/obj/Debug/net6.0/Exercico33.dll
+/Users/iurilebtun/Documents/meuapp/Pruebas/Exercico33/obj/Debug/net6.0/refint/Exercico33.dll
+/Users/iurilebtun/Documents/meuapp/Pruebas/Exercico33/obj/Debug/net6.0/Exercico33.pdb
+/Users/iurilebtun/Documents/meuapp/Pruebas/Exercico33/obj/Debug/net6.0/Exercico33.genruntimeconfig.cache
+/Users/iurilebtun/Documents/meuapp/Pruebas/Exercico33/obj/Debug/net6.0/ref/Exercico33.dll
